@@ -1,0 +1,22 @@
+
+
+#lga{
+    flex-shrink:0;
+    height: 231px;
+    margin-top: 45px;
+    text-align: -webkit-center
+}
+
+.gb_jb{
+    
+    padding-left: 30px;
+    padding-right: 15px;
+    position: relative;
+    text-align: right;
+    align-items:  center;
+    justify-content: flex-end;
+}
+
+.gb_Sg{
+    white-space: nowrap;
+}
